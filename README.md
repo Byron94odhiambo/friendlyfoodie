@@ -1,5 +1,7 @@
 # friendlyfoodie
 A Restaurant table booking system
 
-Backlog
+TODO
+Set up
 Registration and sign up
+ 
