@@ -1,7 +1,13 @@
 # friendlyfoodie
 A Restaurant table booking system
 
-TODO
-Set up
-Registration and sign up
+TODO//
+
+Backend set up
+Authentication
+Models and forms
+Realtime Chat module
+Meet up posts
+Intergrating payment system
+Front end design and development
  
