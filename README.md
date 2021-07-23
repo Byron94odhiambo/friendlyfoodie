@@ -1,4 +1,4 @@
-# friendlyfoodie
+# FriendlyFoodie
 A Restaurant table booking system
 
 TODO//
